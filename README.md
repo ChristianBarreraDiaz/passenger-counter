@@ -14,8 +14,9 @@ The App displays a counter that you can increment with a button, with other butt
 
 ## How it works
 
-There is a counter at 0, you can press Increment to add 1 to the counter the times you need, then you can save that count by pressing Save, pressing save will add the counter number to the total below the buttons and will also save a history of the individual count and then reset de counter to start incrementing again.
-By pressing Reset the history, the total and the counter will set to 0.
+1. There is a counter at 0, you can press Increment to add 1 to the counter the times you need.
+2. Then you can save that count by pressing Save, pressing save will add the counter number to the total below the buttons, by pressing it, also will save a history of the individual count and then reset the counter to start incrementing again.
+3. By pressing Reset, the history, the total and the counter will set to 0.
 
 ##### markdown here
 https://www.markdownguide.org/basic-syntax/
