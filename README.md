@@ -5,11 +5,11 @@ The App displays a counter that you can increment with a button, with other butt
 
 ## Features
 
--Counter with automatic reset 
--Displays total 
--Displays history counted 
--Lightweight 
--can be integrated time to history 
+-Counter with automatic reset  
+-Displays total  
+-Displays history counted  
+-Lightweight  
+-can be integrated time to history  
 
 ## How it works
 
