@@ -1,4 +1,4 @@
-![App preview](/Screenshot2024-06-09at21.41.45.png)
+![App preview](/captura.png)
 
 # Passenger Counter
 
