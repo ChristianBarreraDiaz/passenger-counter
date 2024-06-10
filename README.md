@@ -1,15 +1,15 @@
-
+[App preview](IMG_20180211_164859772_HDR.jpg)
 # Passenger Counter
 
 The App displays a counter that you can increment with a button, with other button you can save the number on the counter to add it to a total and to a history of all the numbers added, this save button will also reset de counter. You can reset the total and the history by pressing the reset button. 
 
 ## Features
 
--Counter with automatic reset  
--Displays total  
--Displays history counted  
--Lightweight  
--can be integrated time to history  
+- Counter with automatic reset  
+- Displays total  
+- Displays history counted  
+- Lightweight  
+- can be integrated time to history  
 
 ## How it works
 
