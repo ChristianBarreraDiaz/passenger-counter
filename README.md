@@ -1,4 +1,5 @@
-![App preview](/Screenshot 2024-06-09 at 21.41.45.png)
+ ![App preview](/Screenshot 2024-06-09 at 21.41.45.png)
+
 # Passenger Counter
 
 The App displays a counter that you can increment with a button, with other button you can save the number on the counter to add it to a total and to a history of all the numbers added, this save button will also reset de counter. You can reset the total and the history by pressing the reset button. 
